@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Delivery
+    author : guliyevnihat
+    version: 1.0.0
